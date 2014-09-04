@@ -1,6 +1,5 @@
 # A Node.js for every altcoin Client!
 
-![coin](https://github.com/lefter1s)
 
 node-coin is a coin client for Node.js. It is a fork of the excellent Kapitalize Bitcoin Client (now removed from GitHub) intended for use with coin. The purpose of this repository is:
 
@@ -15,7 +14,7 @@ You'll need a running instance of [coind](https://github.com/Lefter1s/coin) to c
 
 Then, install the node-coin NPM package.
 
-`npm install git://github.com/Lefter1s/node-caix/`
+`npm install git://github.com/Lefter1s/node-coin/`
 
 ## Examples
 
